@@ -1,6 +1,6 @@
 # Cognitive-Behavioral-and-Social-Data
 
-##Project Topic
+## Project Topic
 
 This study evaluates the abstract reasoning capabilities of Claude 3, a recently developed large language
 model, using the ConceptARC benchmark. Through systematic experimentation and enhanced prompting strategies,
