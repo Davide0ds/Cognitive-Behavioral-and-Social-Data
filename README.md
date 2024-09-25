@@ -13,6 +13,6 @@ underscore the ongoing challenges in achieving human-parity in abstract reasonin
 
 **Authors:** Davide Mazza, Thomas Rosso
 
-**Email:** mazzadavide12@gmail.com
+**Email:** mazzadavide1801@gmail.com
 
 **Supervisor:** Giuseppe Sartori 
